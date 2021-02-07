@@ -13,4 +13,4 @@ On the home page, the website has an image of each of the three cities and a men
 - CSS
 - JavaScript
 
-**Link to website:**
+**Link to website:** https://augustojrf.github.io/Portugal-Cities/
